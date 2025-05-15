@@ -11,4 +11,4 @@ title: Welcome
 📌 邮箱：wuyuan@wtu.edu.cn  
 📚 当前招收硕士研究生，欢迎**对科研有热情**的同学加入！
 
-👉 请点击上方“Educational Projects”、“Publications”、"Honors and Awards"等导航链接了解更多信息。
+👉 向下滑动观看了解更多信息。
