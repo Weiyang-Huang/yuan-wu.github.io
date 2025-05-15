@@ -1,5 +1,5 @@
 <span id="-honors-and-awards"></span>
-# �� Honors and Awards
+# 🏆 Honors and Awards
 - 🎉武汉纺织大学计算机与人工智能学院年终考核优秀，2024年
 - IEEE MEMBER
 - 中国计算机学会会员
