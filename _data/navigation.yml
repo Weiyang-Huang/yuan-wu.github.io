@@ -4,19 +4,8 @@ main:
     url: "{{ site.baseurl }}/#about-me"
 
   - title: "Educational Projects"
-    url: "{{ site.baseurl }}/#-educational projects"
-
   - title: "Publications"
-    url: "{{ site.baseurl }}/#-publications"
-
   - title: "Honors and Awards"
-    url: "{{ site.baseurl }}/#-honors-and-awards"
-
   - title: "Join Us"
-    url: "{{ site.baseurl }}/#-join us"
-
   - title: "Patents"
-    url: "{{ site.baseurl }}/#-patents"
-
   - title: "Industry Projects"
-    url: "{{ site.baseurl }}/#-industry projects"

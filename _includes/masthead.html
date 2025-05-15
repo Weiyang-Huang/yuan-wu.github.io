@@ -5,8 +5,14 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ site.baseurl }}/#about-me">Homepage</a></li>
+          {% assign first = true %}
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% if first %}
+              <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+              {% assign first = false %}
+            {% else %}
+              <li class="masthead__menu-item">{{ link.title }}</li>
+            {% endif %}
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
