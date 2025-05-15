@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "{{ site.baseurl }}/#about-me"
 
   - title: "Educational Projects"
-    url: "/#-educational projects"
+    url: "{{ site.baseurl }}/#-educational projects"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "{{ site.baseurl }}/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "{{ site.baseurl }}/#-honors-and-awards"
 
   - title: "Join Us"
-    url: "/#-join us"
+    url: "{{ site.baseurl }}/#-join us"
 
   - title: "Patents"
-    url: "/#-patents"
+    url: "{{ site.baseurl }}/#-patents"
 
   - title: "Industry Projects"
-    url: "/#-industry projects"
+    url: "{{ site.baseurl }}/#-industry projects"
