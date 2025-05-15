@@ -2,10 +2,15 @@
 main:
   - title: "About Me"
     url: "{{ site.baseurl }}/#about-me"
-
   - title: "Educational Projects"
+    url: "#"
   - title: "Publications"
+    url: "#"
   - title: "Honors and Awards"
+    url: "#"
   - title: "Join Us"
+    url: "#"
   - title: "Patents"
+    url: "#"
   - title: "Industry Projects"
+    url: "#"
