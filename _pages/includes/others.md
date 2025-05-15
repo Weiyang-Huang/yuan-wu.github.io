@@ -1,19 +1,23 @@
 
-# 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+# 📖 Join Us
+课题组重点探索以毫米波雷达、柔性传感器为代表的新型感知设备，利用深度学习、人工智能等工具实现鲁棒的信号处理、智能的系统决策、友好的人机共融。
+欢迎对科研有热情的研究生加入我的团队，可以推荐优秀的研究生去武大华科等高校攻读博士学位。也欢迎本科生加入团队进行科研实践活动，我们有丰富的指导本科生发表高水平论文的成功案例。欢迎跨学科的同学前来交流合作。
+请一定先了解我的研究方向，如果感兴趣，再将个人简历发送至wuyuan@wtu.edu.cn。
+对你的期望：
+（1）良好的英文撰写、阅读能力；
+（2）优秀的编程能力（Python/C++/Matlab等)；
+（3）对科研有热情；
+（4）乐观开朗、态度认真；
+科研道路上有太多诱惑，希望你有理想、有追求、有毅力。
 
-# 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
 
-# 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
+
+# 💬 Patents
+- 一种基于射频信号的疲劳程度检测方法,系统及电子设备，CN116570253A
+- 一种基于虚拟力的无线传感器网络移动能量补充方法， CN107800542A
+-一种无线传感器网络中单对多移动能量补充方法 CN108012345A
+- 基于脑电信号的自监督情绪识别模型的预训练方法及装置.授权公告号：CN 117171557 B
+
+# 💻 Industry Projects
+- 蚂蚁集团:基于物联网无线射频信号的微动生命体征智能感知识别。
+- 华为公司，矿井人员定位遇险救助系统 。

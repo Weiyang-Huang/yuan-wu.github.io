@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Educational Projects"
+    url: "/#-educational projects"
 
   - title: "Publications"
     url: "/#-publications"
@@ -12,11 +12,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Join Us"
+    url: "/#-join us"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Patents"
+    url: "/#-patents"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Industry Projects"
+    url: "/#-industry projects"
